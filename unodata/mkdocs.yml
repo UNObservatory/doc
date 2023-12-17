@@ -49,5 +49,9 @@ extra:
       link: /en/ 
       lang: en
   generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: (https://unodata.es/
+      name: Linkedin
 
 copyright: Copyright 2024 [Urban Node Observatory](https://unodata.es/)
