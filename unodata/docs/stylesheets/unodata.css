@@ -1,0 +1,15 @@
+
+:root {
+
+    /* Primary color shades */
+    --md-primary-fg-color: #6610f2;
+}
+
+* {
+    
+    font-family: Montserrat Light,sans-serif;
+}
+
+.md-header {
+    background-color: var(--md-primary-fg-color);
+}

@@ -1,0 +1,41 @@
+site_name: Plataforma UNOData
+nav:
+  - 'Guía de usuario':
+    - 'Acceso': 'access/access.md'
+    - 'Gestión':
+      - "Perfil":
+        - 'Gestión de Mi Perfil': 'management/profile/profile.md'
+        - 'Idioma': 'management/profile/language.md'
+      - "Organización":
+        - 'Gestión de Mi Organización': 'management/organization/organization.md'
+        - 'Usuarios': 'management/organization/users.md'
+      - "Entidades":
+        - "Servicio web": "management/entities/service.md"
+        - "Capa": "management/entities/layer.md"
+        - "Mapa": "management/entities/map.md"
+        - "Aplicación": "management/entities/application.md"
+    - "Aplicaciones":
+      - "UNOVida": "app/unovida.md"
+      - "UNOLocaliza": "app/unolocaliza.md"
+      - "UNOAfecta": "app/unoafecta.md"
+  - Sobre:
+    - 'Licencia': 'about/license.md'
+    - 'Versión': 'about/release-notes.md'
+
+theme: 
+  name: 'material'
+  language: 'en'
+  palette:
+      primary: 'indigo'
+      accent: 'indigo'
+  font:
+      text: 'Montserrat Light'
+      code: 'Roboto Mono'
+  favicon: img/cropped-UNO-32x32.png
+  logo: img/cropped-UNO-32x32.png
+
+# extra_css:
+#   - stylesheets/unodata.css
+
+# theme:
+#   favicon: images/favicon.png
