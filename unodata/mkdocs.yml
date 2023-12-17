@@ -48,3 +48,6 @@ extra:
     - name: English
       link: /en/ 
       lang: en
+  generator: false
+
+copyright: Copyright 2024 [Urban Node Observatory](https://unodata.es/)
