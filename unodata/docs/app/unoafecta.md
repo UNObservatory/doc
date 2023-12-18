@@ -1,4 +1,6 @@
-Gracias a la aplicación UNOAfecta las organizaciones de la Plataforma podrán consultar las afecciones de una ubicación concreta.
+Gracias a la aplicación **UNOAfecta** las organizaciones de la Plataforma podrán consultar las afecciones de una ubicación concreta.
+
+![](img/UNOAfecta_200.png)
 
 Tras hacer clic en el área de visualización si representarán las afecciones según categorías.
 

@@ -1,4 +1,6 @@
-UNOVida es la aplicación de la Plataforma para la visualización y consulta de los servicios geográficos abiertos disponibles a través de la Plataforma
+**UNOVida** es la aplicación de la Plataforma para la visualización y consulta de los servicios geográficos abiertos disponibles a través de la Plataforma
+
+![](img/UNOVida_200.png)
 
 De forma genérica las aplicaciones UNOVida constan de los siguientes apartados:
 

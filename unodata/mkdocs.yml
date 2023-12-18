@@ -40,8 +40,9 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.path
-# extra_css:
-#   - stylesheets/unodata.css
+
+extra_css:
+   - stylesheets/unodata.css
 
 extra:
   alternate:

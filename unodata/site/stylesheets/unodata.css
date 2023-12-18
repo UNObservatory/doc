@@ -3,6 +3,7 @@
 
     /* Primary color shades */
     --md-primary-fg-color: #6610f2;
+    --strong_text_color:  #6610f2;
 }
 
 * {
@@ -13,3 +14,10 @@
 .md-header {
     background-color: var(--md-primary-fg-color);
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }

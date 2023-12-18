@@ -1,6 +1,6 @@
-El acceso a la Plataforma se realiza mediante la URL <http://app.unodata.es/login>
+Puede acceder a UNOData a través de navegadores web y dispositivos móviles desde la siguiente URL <http://app.unodata.es/login>
 
-Las credenciales necesarias son el correo electrónico y la contraseña del usuario
+Inicie sesión en con su cuenta UNOData para ver una vista a los recursos y aplicaciones de su Organización. Para el acceso es nesario introducir su correo electrónico y la contraseña del usuario a la plataforma.
 
 ![](img/UNOData_Manual_de_UNOData.002.png)
 
