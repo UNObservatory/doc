@@ -12,6 +12,10 @@ Una vez registrado la Plataforma accederá al módulo de Organización que permi
 
 ![](img/UNOData_Manual_de_UNOData.004.png)
 
+En el caso de que el usuario forme parte de varias organizaciones la Plataforma mostrará el listado de estas dando la opción de indicar la organización a la que acceder.
+
+![](img/UNOData_multiples_organizaciones.png)
+
 Tras elegir la Organización con la que desee trabajar la Plataforma le llevará al **Administrador de Entidades**.
 
 ![](img/UNOData_Manual_de_UNOData.005.png)
